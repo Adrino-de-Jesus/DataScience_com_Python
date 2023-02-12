@@ -14,9 +14,7 @@ Lista de projetos em Jupyter Notebook:
 * **Módulo 02:** [Manipulando Arquivos](https://github.com/Adrino-de-Jesus/DataScience_com_Python/blob/main/Manipulando_Arquivos.ipynb)
 * **Modulo 03:** [Visualizando Gráficos e Data Storytelling](https://github.com/Adrino-de-Jesus/DataScience_com_Python/blob/main/Data_Storytelling_com_Python.ipynb)
 * **Modulo 04:** [Análise e Tratamento de Dados](https://github.com/Adrino-de-Jesus/DataScience_com_Python/blob/main/Explora%C3%A7%C3%A3o_dos_Dados_com_Pandas.ipynb)
-* **Modulo 05:** [Dominando planilhas Excel]()
-* **Modulo 06:** [Web Scraping]()
-* **Modulo 07:** [Agendando tarefas e executando programas]()
+
 
 ---
 
